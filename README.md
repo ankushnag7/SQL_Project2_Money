@@ -5,9 +5,9 @@ The situation: For a long time, Adams Andrew, Manager of WSDA Music, has been un
 the discrepancy occurred between the years 2011 and 2012. But that’s about all that Adams 
 knows for certain.
 
---  Analyze WSDA Music’s Data to:
+--  Analyze the data to:
 1. Get a list of suspects
-2.  Narrow your list
+2. Narrow your list
 3. Pinpoint your prime suspect
 
 ## Questions and Solutions that perform in-depth analysis with the aim of finding employees who may have been financially motivated to commit a crime.

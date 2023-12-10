@@ -1,4 +1,4 @@
-## Project Missing Money Matter
+# Project Missing Money Matter
 ## Challenge
 
 The situation: For a long time, Adams Andrew, Manager of WSDA Music, has been unable to account for a discrepancy in his company’s financials.The furthest he has gotten in his own attempts to analyze the company data is figuring out that 
